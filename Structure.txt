@@ -10,3 +10,14 @@ Summary
 Description
 Steps to reproduce
 Expected Result
+ID number
+Reporter
+Priority
+Severity
+Frequency
+Platform
+Summary
+Description
+Steps to reproduce
+Expected Result
+Actual Result
