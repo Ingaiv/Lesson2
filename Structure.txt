@@ -1,0 +1,12 @@
+Number
+[A[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~I[3~[3~[3~[3~[3~[3[D[D[D[[D[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+ID number
+Reporter
+Priority
+Severity
+Frequency
+Platform
+Summary
+Description
+Steps to reproduce
+Expected Result
